@@ -12,6 +12,7 @@
 𝘼𝙪𝙩𝙝𝙤𝙧
 
 * `𝙎𝙚𝙧𝙚𝙖𝙡𝙆𝙞𝙡𝙡𝙖`
+  <a href="https://wa.me/qr/VEMR34P6IBSXH1">Contact</a>
 
 
 * ## Daftar Isi
