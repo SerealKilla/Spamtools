@@ -149,11 +149,7 @@
 
 
    Atau bisa juga dengan menggunakan **apt**:
-
-   ```bash
-   apt install ./smsid_x.x_all.deb
-   ```
-
+   
 
    jika file yg telah di download/clone adalah 
    *smsid_1.1_all.deb* maka ketik seperti ini 
