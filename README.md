@@ -166,7 +166,7 @@
 
 
    ```bash
-   apt install ./smsid_1.1_all.deb
+   apt install smsid_1.1_all.deb
    ```
 ----------
 
