@@ -155,18 +155,13 @@
    ```
 
 
-   > "**x.x**" adalah version package yg telah di
-   > download. untuk melihat versi berapa yg telah di
-   > install bisa menggunakan command "**ls**" untuk
-   > melihat file.
-
    jika file yg telah di download/clone adalah 
    *smsid_1.1_all.deb* maka ketik seperti ini 
    di commandline:
 
 
    ```bash
-   apt install smsid_1.1_all.deb
+   apt install Spamtools.deb
    ```
 ----------
 
