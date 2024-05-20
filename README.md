@@ -139,7 +139,7 @@
    cara:
 
    ```bash
-   chmod +x ./install 
+   chmod +x ./install
    ```
 
    > NB: sebelum menggunakan command di atas 
