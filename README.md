@@ -128,7 +128,7 @@
    ```
    Tunggu beberapa saat hingga program git selesai
    menyalin, jika sudah lanjut ketahap berikutnya,
-   yaitu pindah ke directory ./smsid-java dengan
+   yaitu pindah ke directory ./Spamtools dengan
    cara:
 
    ```bash
@@ -151,13 +151,9 @@
    Atau bisa juga dengan menggunakan **apt**:
    
 
-   jika file yg telah di download/clone adalah 
-   *smsid_1.1_all.deb* maka ketik seperti ini 
-   di commandline:
-
 
    ```bash
-   apt install Spamtools.deb
+   apt install ./Spamtools.deb
    ```
 ----------
 
